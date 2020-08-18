@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Bikcraft" src="/github/bikcraft.png" width="100%"/>
+    <img alt="Bikcraft" src="/github/bikcraft.png"/>
 </h1>
 
 <p align="center">
