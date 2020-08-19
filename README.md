@@ -14,7 +14,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [PHP](https://www.php.net/)
+- [HTML](https://www.w3schools.com/html/)
 - [CSS](https://tableless.github.io/iniciantes/manual/css/)
 - [JS](https://www.w3schools.com/js/)
 
